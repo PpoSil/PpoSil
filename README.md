@@ -15,7 +15,8 @@
 <a href="https://solved.ac/caca30/">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=caca30" />
 </a>
-[![프로그래머스 프로필](https://img.shields.io/badge/프로그래머스-caca30-4CAF50?style=flat-square)](https://programmers.co.kr/profile/caca30)
+<a href="https://programmers.co.kr/profile/caca30">
+  <img align="center" src="https://img.shields.io/badge/프로그래머스-caca30-4CAF50?style=flat-square" />
 </a>
 </p>
 
@@ -24,14 +25,13 @@
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solbi1996@gmail.com)
 <br/>
 
-
 # ⚙️ Skills
 ## 🖥️ Frontend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
