@@ -12,13 +12,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PpoSil&layout=donut&theme=dark" width="350" height="170" />
 </a>
-  <a href="https://solved.ac/caca30/">
+<a href="https://solved.ac/caca30/">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=caca30" />
 </a>
 </p>
 
 # 📞 Contact
-<a href="https://www.instagram.com/bbing.pong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ssol.bbeeee/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:solbi1996@gmail.com)
 <br/>
 
