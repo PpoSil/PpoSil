@@ -12,12 +12,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PpoSil&layout=donut&theme=dark" width="350" height="170" />
 </a>
-<a href="https://solved.ac/caca30/">
+<!-- <a href="https://solved.ac/caca30/">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=caca30" />
-</a>
-<a href="https://programmers.co.kr/profile/caca30">
-  <img align="center" src="https://img.shields.io/badge/프로그래머스-문제수: 50 점수: 300-4CAF50?style=flat-square" />
-</a>
+</a> -->
+
 </p>
 
 # 📞 Contact
