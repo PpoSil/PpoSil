@@ -16,7 +16,7 @@
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=caca30" />
 </a>
 <a href="https://programmers.co.kr/profile/caca30">
-  <img align="center" src="https://img.shields.io/badge/프로그래머스-caca30-4CAF50?style=flat-square" />
+  <img align="center" src="https://img.shields.io/badge/프로그래머스-문제수: 50 점수: 300-4CAF50?style=flat-square" />
 </a>
 </p>
 
