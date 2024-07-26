@@ -15,8 +15,7 @@
 <a href="https://solved.ac/caca30/">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=caca30" />
 </a>
-[프로그래머스 프로필]<a href="(https://programmers.co.kr/profile/caca30)">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=caca30" />
+[![프로그래머스 프로필](https://img.shields.io/badge/프로그래머스-사용자ID-4CAF50?style=flat-square)](https://programmers.co.kr/profile/caca30)
 </a>
 </p>
 
